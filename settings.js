@@ -1,14 +1,14 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.ownernomer = "6285283090376"
-global.ownername = "deltaxcrash"
-global.ytname = "Delta Tech"
+global.ownernomer = "2348141104435"
+global.ownername = "༆Godwin᭄☆♡ᴬˡᵖʰᵃ"
+global.ytname = "Alpha Tech"
 global.socialm = ""
 global.location = "Indonesia"
 
-global.ownernumber = '6285283090376'  
-global.ownername = 'deltaxcrash🐞' 
+global.ownernumber = '2348141104435'  
+global.ownername = '༆Godwin᭄☆♡ᴬˡᵖʰᵃ🐞' 
 global.botname = 'INFINITY' 
 
 global.author = 'onexdelta🐞'
